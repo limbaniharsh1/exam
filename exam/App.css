@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+p{
+  padding: 21px;
+}
+.box{
+  width: 300px;
+}
